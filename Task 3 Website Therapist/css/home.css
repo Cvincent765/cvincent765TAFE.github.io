@@ -1,0 +1,28 @@
+html{
+    overflow-y: scroll;
+overflow-x: hidden;
+}
+
+h1{
+    text-align: center;
+    padding: 1vw; 
+    margin:1.5vw;
+}
+
+h2{
+    text-align: center;
+    padding: 1vw; 
+    margin:1.5vw;
+    font-size: 3em;
+}
+
+footer{
+    color:#fff;
+    padding:0.5vw;
+    margin-top:1.5vw;
+}
+
+footer > p{
+    text-align: center;
+    margin: 0px;
+}
